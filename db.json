@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "email": "tuva9@fpt.edu.vn",
+      "password": "$2a$10$y4Y.M6VyrqrBVuK1BMMG3..bdxMvix9a3LKr6zONSqdidTUJ.O6QO",
+      "firstName": "Vũ",
+      "lastName": "Anh Tú",
+      "confirmPassword": "123456",
+      "id": 1
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$LK4dyDRWBXsM1wvFIiSu2OSbZ.WNkwTscdMvgnZUiZ1T1/cKesJWy",
+      "firstName": "admin",
+      "lastName": "admin",
+      "confirmPassword": "123456",
+      "id": 2,
+      "role": "admin"
+    },
+    {
+      "email": "nguyenthebao17112@gmail.com",
+      "password": "$2a$10$z2bjZQ/9Y69/w2WFmrnM8ee/DICR/H/INlwzlDU18QPKYte60MZca",
+      "firstName": "nguyễn thế",
+      "lastName": "bảo",
+      "confirmPassword": "123456",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "name": "Áo kho",
+      "brand": "Uniqloddddsf",
+      "desc": "ấddfsdfs",
+      "price": 1490005,
+      "id": "5"
+    },
+    {
+      "name": "nguyễn thế bảo",
+      "brand": "Uniqlooo",
+      "desc": "sadasd",
+      "price": 1299000,
+      "id": "108aWD2"
+    }
+  ]
+}
